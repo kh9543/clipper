@@ -1,0 +1,16 @@
+{
+  "name": "clipper",
+  "version": "1.0.0",
+  "description": "core function clipping youtube and twitch videos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fluent-ffmpeg": "^2.1.2",
+    "hh-mm-ss": "^1.2.0",
+    "youtube-dl-exec": "^1.2.3"
+  }
+}
